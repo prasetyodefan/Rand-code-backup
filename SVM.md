@@ -11,7 +11,7 @@
 
 Here's some sample code to help you get started with implementing SVM in Python using scikit-learn:
 
-~~~
+~~~python
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.svm import SVC
