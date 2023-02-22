@@ -33,7 +33,8 @@ Otsu's method is a global image thresholding technique used to separate the fore
         return threshold
         
     ```
-
+    
+<!---
 ## Full Code Otsu Threshold
 
 ```python
@@ -80,4 +81,4 @@ print( binary_image )
 
 ```
 
-
+--->
